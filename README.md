@@ -1,8 +1,6 @@
 # Energy-Efficient-Quantum-Inspired-Recommender-System
 
 
-# Energy-Efficient Quantum-Inspired Recommender System
-
 ## Research Project
 
 An experimental research project investigating **quantum-inspired optimization for energy-efficient recommender systems**. The project studies whether a **Quadratic Unconstrained Binary Optimization (QUBO)** formulation combined with **simulated annealing** can optimize recommendation selection while maintaining recommendation quality and reducing computational cost.
